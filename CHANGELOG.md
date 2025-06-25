@@ -6,6 +6,8 @@
 **Merged pull requests:**
 
 
+
+
 ## [2.2.2](https://github.com/networknt/graphql-petstore/tree/2.2.2) (2025-06-05)
 
 
